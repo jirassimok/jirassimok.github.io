@@ -1,0 +1,91 @@
+#+AUTHOR: Jacob Komissar
+#+TITLE: Jacob Komissar
+
+#+OPTIONS: toc:nil html-postamble:nil num:nil
+#+LINK: jirassimok https://jirassimok.github.io/
+#+LINK: github     https://github.com/jirassimok/
+#+LINK: doi        https://doi.org/
+
+#+HTML_HEAD: <link rel="stylesheet" href="styles.css">
+
+#+BEGIN_CENTER
+[[https://github.com/jirassimok][jirassimok]] on GitHub
+#+END_CENTER
+
+* Open Source
+
+** [[github:presto-manager][Presto Manager]]
+
+This was my intern project at Teradata in summer 2017, developed with two other
+interns to simplify the management of Presto's distributed system.
+
+* Personal Projects
+
+** [[github:SchedulerTranslator][WPI Scheduler Translator]]
+
+When WPI replaced their schedule-planning tool (now at
+[[https://planner.wpi.edu][planner.wpi.edu]]) with a newer, clunkier tool, I set
+out to translate the JSON data from the new tool into the XML format for the old
+one. This was my first personal project, conducted before I had any significant
+software development experience.
+
+News of this reached the academic advising office, and some time after I met
+with them, the original website was brought back online.
+
+** [[github:wheel-of-time][Wheel of Time]]
+
+This simple Emacs package implements the time-scrolling functionality mentioned
+by [[https://xkcd.com/1806/][this xkcd]].
+
+* Coursework
+
+These are projects that I completed for various courses at WPI. Some of the
+GitHub repositories have randomly-generated names to make them harder to
+identify. Courses for which I do not have code on GitHub are not listed.
+
+** [[github:SoftEng-2017][Software Engineering]]
+
+In this class, I worked as Assistant Lead Software Engineer in a team of 10
+students to develop an application to allow users to navigate in hospitals.  I
+learned the basics of agile development and application design, which has
+influenced most programs I have written since.
+
+** Computer Graphics
+
+In this class, I learned about the OpenGL graphics pipeline via WebGL. This
+course was my first experience with serious JavaScript programming.
+
+- *[[jirassimok:animated-octo-funicular][Mesh Display Tool]]*
+  ([[github:animated-octo-funicular][source]]): This tool allows the
+  display and limited animation of a subset of PLY files, such as those found
+  [[github:animated-octo-funicular/tree/master/sample-files][here]].
+- *[[jirassimok:fictional-giggle][Mobile Animation]]*
+  ([[github:fictional-giggle][source]]): This animation demonstrates textures,
+  hierarchical modeling, basic lighting models, and basic reflection and
+  refraction (note that the textures shown with reflection and refraction are
+  intentionally different from the textures shown on the walls).
+
+** Data Visualization
+
+In this course, I learned visualization techniques, particularly using
+[[https://d3js.org][D3.js]]. The GitHub repositories for the course are mostly
+private, but my projects can be viewed on GitHub Pages.
+
+# - *[[jirassimok:04-Remix][Remix]]:* An extension on the visualizations found
+#   [[https://qz.com/582720/americas-most-prolific-wall-punchers-charted/][here]],
+#   designed to allow users to explore the data. The visualizations
+- *[[jirassimok:03-Experiment][A Classic Experiment]]:* A variation on
+  [[doi:10.2307/2288400][this visualization experiment]], influenced by
+  [[doi:10.1111/cgf.12888][this study]]. This experiment aimed to use the first
+  paper's technique to study how data is percieved in variations on pie charts,
+  as discussed in the second paper.
+- *[[jirassimok:02-DataVis-10ways][10 Ways]]:* A demonstration of the same simple
+  chart in 10 different visualization programs, including discussion of each
+  tool.
+- *[[jirassimok:01-ghd3][GHD3]]:* A D3.js playground.
+# - *[[https://jackcharbonneau.github.io/final][Final]]:* For the course's final
+#   project, I worked with a team to design a number of visualizations to explore
+#   FiveThirtyEight's
+#   [[https://github.com/fivethirtyeight/data/tree/master/masculinity-survey][
+#   Masculinity Survey Data]]. I primarily developed the first visualization shown
+#   (the heatmap matrix), though it was left incomplete due to time constraints.

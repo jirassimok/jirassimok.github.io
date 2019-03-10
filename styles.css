@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    width: 100%;
+}
+
+#content {
+    max-width: 720px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.outline-3, .outline-text-2 {
+    padding-left: 2.5%;
+}
+
+.outline-text-3 {
+    padding-left: 2.5%;
+}
