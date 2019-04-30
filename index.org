@@ -74,11 +74,12 @@ private, but my projects can be viewed on GitHub Pages.
 # - *[[jirassimok:04-Remix][Remix]]:* An extension on the visualizations found
 #   [[https://qz.com/582720/americas-most-prolific-wall-punchers-charted/][here]],
 #   designed to allow users to explore the data. The visualizations
-- *[[jirassimok:03-Experiment][A Classic Experiment]]:* A variation on
-  [[doi:10.2307/2288400][this visualization experiment]], influenced by
-  [[doi:10.1111/cgf.12888][this study]]. This experiment aimed to use the first
-  paper's technique to study how data is percieved in variations on pie charts,
-  as discussed in the second paper.
+- *A Classic Experiment* ([[jirassimok:03-Experiment][experiment]],
+  [[https://github.com/jirassimok/03-Experiment/blob/3bfcb9581724845935160894d3247760d9f464be/README.md][report]]):
+  A variation on [[doi:10.2307/2288400][this visualization experiment]],
+  influenced by [[doi:10.1111/cgf.12888][this study]]. This experiment aimed to
+  use the experiment's technique to study how data is percieved in variations on
+  pie charts, as discussed in the study.
 - *[[jirassimok:02-DataVis-10ways][10 Ways]]:* A demonstration of the same simple
   chart in 10 different visualization programs, including discussion of each
   tool.
