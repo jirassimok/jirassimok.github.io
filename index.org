@@ -77,9 +77,6 @@ In this course, I learned visualization techniques, particularly using
 [[https://d3js.org][D3.js]]. The GitHub repositories for the course are mostly
 private, but my projects can be viewed on GitHub Pages.
 
-# - *[[jirassimok:04-Remix][Remix]]:* An extension on the visualizations found
-#   [[https://qz.com/582720/americas-most-prolific-wall-punchers-charted/][here]],
-#   designed to allow users to explore the data. The visualizations
 - *A Classic Experiment* ([[jirassimok:03-Experiment/gh/quiz.html][experiment]],
   [[jirassimok:03-Experiment][report]]):
   A variation on [[doi:10.2307/2288400][this visualization experiment]],
@@ -89,10 +86,3 @@ private, but my projects can be viewed on GitHub Pages.
 - *[[jirassimok:02-DataVis-10ways][10 Ways]]:* A demonstration of the same simple
   chart in 10 different visualization programs, including discussion of each
   tool.
-- *[[jirassimok:01-ghd3][GHD3]]:* A D3.js playground.
-# - *[[https://jackcharbonneau.github.io/final][Final]]:* For the course's final
-#   project, I worked with a team to design a number of visualizations to explore
-#   FiveThirtyEight's
-#   [[https://github.com/fivethirtyeight/data/tree/master/masculinity-survey][
-#   Masculinity Survey Data]]. I primarily developed the first visualization shown
-#   (the heatmap matrix), though it was left incomplete due to time constraints.
