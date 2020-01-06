@@ -32,6 +32,12 @@ software development experience.
 News of this reached the academic advising office, and some time after I met
 with them, the original website was brought back online.
 
+**  [[github:dir2pdf][dir2pdf]]
+
+A Python program that converts a directory of images to a multi-page PDF. I
+wrote it for a friend who writes comics. This program is
+[[https://pypi.org/project/dir2pdf/][available on PyPI]].
+
 ** [[github:wheel-of-time][Wheel of Time]]
 
 This simple Emacs package implements the time-scrolling functionality mentioned
